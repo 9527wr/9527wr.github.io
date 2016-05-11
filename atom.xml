@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-05-11T09:52:12.485Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Mr.靠谱</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我喜欢的歌手与歌曲</title>
+    <link href="http://yoursite.com/2016/05/11/myblog/"/>
+    <id>http://yoursite.com/2016/05/11/myblog/</id>
+    <published>2016-05-11T09:52:12.493Z</published>
+    <updated>2016-05-11T09:52:12.485Z</updated>
+    
+    <content type="html">&lt;p&gt;fall out boy(打倒男孩)，是我最喜欢的组合之一，激情的声音，激情的歌曲与一丝逗比的气质，他们是我觉得最能让人整个燃起来的歌手&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;fall out boy(打倒男孩)，是我最喜欢的组合之一，激情的声音，激情的歌曲与一丝逗比的气质，他们是我觉得最能让人整个燃起来的歌手&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>The Phoenix</title>
+    <link href="http://yoursite.com/2016/05/10/hello-world/"/>
+    <id>http://yoursite.com/2016/05/10/hello-world/</id>
+    <published>2016-05-10T09:07:38.036Z</published>
+    <updated>2016-05-10T09:07:38.036Z</updated>
+    
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;You are a brick tied to me that’s dragging me down&lt;br&gt;你就像是一個一直綁在我身上拖累著我的一個磚頭&lt;br&gt;Strike a match and I’ll burn you to the ground&lt;br&gt;我恨不得劃起一根火柴把你燒毀&lt;br&gt;We are the jack-o-lanterns in July&lt;br&gt;我們是出現在7月的怪獸&lt;br&gt;Setting fire to the sky&lt;br&gt;在天空中點起火吧&lt;br&gt;Here, here comes this rising tide so come on&lt;br&gt;潮漲要來了所以就跟著我吧&lt;/p&gt;
+&lt;p&gt;Put on your war paint&lt;br&gt;準備好戰爭吧!&lt;/p&gt;
+&lt;p&gt;Cross walks and crossed hearts and hope to die&lt;br&gt;交錯著的腳步和準備好死亡的決心&lt;br&gt;Seal the clouds with grey lining&lt;br&gt;用灰色去把雲封蓋著&lt;br&gt;So we can take the world back from the heart-attacked&lt;br&gt;所以我們可以利用心靈攻擊把世界奪回來&lt;br&gt;One maniac at a time we will take it back&lt;br&gt;一次過瘋狂地把它搶回來吧&lt;br&gt;You know time crawls on when you’re waiting for the song to start&lt;br&gt;你知道當你在等一首歌播放的時候時間已經一直在迫近&lt;br&gt;So dance along to the beat of your heart&lt;br&gt;所以別等了就跟隨著你心裡的拍子起舞吧!&lt;br&gt;Hey Youngblood doesn’t it feel like our time is running out&lt;br&gt;年青人啊難道你們感覺不到我們的時間正在一點一點流逝嗎?&lt;br&gt;I’m going to change you like a remix&lt;br&gt;我會把你像混音歌曲一樣去改變你&lt;br&gt;Then I’ll raise you like a phoenix&lt;br&gt;然後把你當鳳凰那樣去養育你&lt;br&gt;Wearing all vintage misery&lt;br&gt;背負著從古到今流傳下來的苦難&lt;br&gt;No I think it looked a little better on me&lt;br&gt;不過我還是覺得它們在我身上比較好&lt;br&gt;I’m going to change you like a remix&lt;br&gt;我會把你像混音歌曲一樣去改變你&lt;br&gt;Then I’ll raise you like a phoenix&lt;br&gt;然後把你當鳳凰那樣去養育你&lt;/p&gt;
+&lt;p&gt;Bring home the boys in scraps&lt;br&gt;帶著破銅爛鐵回家的男孩&lt;br&gt;Scrap metal the tanks&lt;br&gt;只有一堆廢舊金屬罐&lt;br&gt;Get hitched make a career out of robbing banks&lt;br&gt;搭個順風車去搶劫銀行幹一番事業吧!&lt;br&gt;Because the world is just a teller and we are wearing black&lt;br&gt;因為這個世界其實只不過是一個出納員而且我們都是身穿黑色西裝的人&lt;br&gt;She broke our spirits with no impact&lt;br&gt;她不用接觸我們就可以把我們的精神摧毀掉&lt;/p&gt;
+&lt;p&gt;So we can take the world back from the heart-attacked&lt;br&gt;所以我們可以利用心靈攻擊把世界奪回來&lt;br&gt;One maniac at a time we will take it back&lt;br&gt;一次過瘋狂地把它搶回來吧&lt;br&gt;You know time crawls on when you’re waiting for the song to start&lt;br&gt;你知道當你在等一首歌播放的時候時間已經一直在迫近&lt;br&gt;So dance along to the beat of your heart&lt;br&gt;所以別等了就跟隨著你心裡的拍子起舞吧!&lt;br&gt;Hey Youngblood doesn’t it feel like our time is running out&lt;br&gt;年青人啊難道你們感覺不到我們的時間正在一點一點流逝嗎?&lt;br&gt;I’m going to change you like a remix&lt;br&gt;我會把你像混音歌曲一樣去改變你&lt;br&gt;Then I’ll raise you like a phoenix&lt;br&gt;然後把你當鳳凰那樣去養育你&lt;br&gt;Wearing all vintage misery&lt;br&gt;背負著從古到今流傳下來的苦難&lt;br&gt;No I think it looked a little better on me&lt;br&gt;不過我還是覺得它們在我身上比較好&lt;br&gt;I’m going to change you like a remix&lt;br&gt;我會把你像混音歌曲一樣去改變你&lt;br&gt;Then I’ll raise you like a phoenix&lt;br&gt;然後把你當鳳凰那樣去養育你&lt;/p&gt;
+&lt;p&gt;Put on your war paint&lt;br&gt;準備好戰爭吧!&lt;/p&gt;
+&lt;p&gt;The war is won before it’s begun&lt;br&gt;在戰爭開始之前其實我們早就贏了&lt;br&gt;Release the doves&lt;br&gt;釋放那些鴿子吧&lt;br&gt;Surrender love&lt;br&gt;不要再執著去愛了&lt;/p&gt;
+&lt;p&gt;Hey Youngblood doesn’t it feel like our time is running out&lt;br&gt;年青人啊難道你們感覺不到我們的時間正在一點一點流逝嗎?&lt;br&gt;I’m going to change you like a remix&lt;br&gt;我會把你像混音歌曲一樣去改變你&lt;br&gt;Then I’ll raise you like a phoenix&lt;br&gt;然後把你當鳳凰那樣去養育你&lt;br&gt;Wearing all vintage misery&lt;br&gt;背負著從古到今流傳下來的苦難&lt;br&gt;No I think it looked a little better on me&lt;br&gt;不過我還是覺得它們在我身上比較好&lt;br&gt;I’m going to change you like a remix&lt;br&gt;我會把你像混音歌曲一樣去改變你&lt;br&gt;Then I’ll raise you like a phoenix&lt;br&gt;然後把你當鳳凰那樣去養育你&lt;/p&gt;
+&lt;p&gt;Put on your war paint&lt;br&gt;準備好戰爭吧!&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;You are a brick tied to me that’s dragging me down&lt;br&gt;你就像是一個一直綁在我身上拖累著我的一個磚頭&lt;br&gt;Strike a match and I’ll burn you to the grou
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>myfirstblog</title>
+    <link href="http://yoursite.com/2016/05/02/myfirstblog/"/>
+    <id>http://yoursite.com/2016/05/02/myfirstblog/</id>
+    <published>2016-05-02T11:06:20.000Z</published>
+    <updated>2016-05-02T11:06:20.018Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
