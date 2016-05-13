@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-11T09:52:12.485Z</updated>
+  <updated>2016-05-13T00:43:28.107Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,19 +16,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我喜欢的歌手与歌曲</title>
-    <link href="http://yoursite.com/2016/05/11/myblog/"/>
-    <id>http://yoursite.com/2016/05/11/myblog/</id>
-    <published>2016-05-11T09:52:12.493Z</published>
-    <updated>2016-05-11T09:52:12.485Z</updated>
+    <title>那些奇葩又奇怪的乐器</title>
+    <link href="http://yoursite.com/2016/05/13/myblog/"/>
+    <id>http://yoursite.com/2016/05/13/myblog/</id>
+    <published>2016-05-13T00:43:28.115Z</published>
+    <updated>2016-05-13T00:43:28.107Z</updated>
     
-    <content type="html">&lt;p&gt;fall out boy(打倒男孩)，是我最喜欢的组合之一，激情的声音，激情的歌曲与一丝逗比的气质，他们是我觉得最能让人整个燃起来的歌手&lt;/p&gt;
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;雾琴&lt;br&gt;&lt;img src=&quot;http://n1.itc.cn/img8/wb/smccloud/2015/07/23/143764350665470149.JPEG&quot; alt=&quot;雾琴&quot;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;没错，就是它，这就是雾琴，琴中大哥，超过15米的长度，大概只有超人可以吹响它了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;奥克托贝斯&lt;br&gt;&lt;img src=&quot;http://photocdn.sohu.com/20150724/mp24063500_1437691703303_2_th.jpeg&quot; alt=&quot;奥克托贝斯&quot;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;又是一个超级大的乐器，三米高的大提琴你敢信？早在1850年，一位法国的天才弦乐器艺术家Jean-Baptiste Vuillaume便已经发明了它，为了演奏这个3.48米高的庞然大物他不得不自制弓和踏板，甚至有时得要两人合力才能拉上一曲。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;獾勒明&lt;br&gt;&lt;img src=&quot;http://n1.itc.cn/img8/wb/smccloud/2015/07/23/143764350746356078.JPEG&quot; alt=&quot;獾勒明&quot;&gt;&lt;br&gt;一只獾穿着一件泰勒明，这就是“獾勒明”。MDZZ&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;fall out boy(打倒男孩)，是我最喜欢的组合之一，激情的声音，激情的歌曲与一丝逗比的气质，他们是我觉得最能让人整个燃起来的歌手&lt;/p&gt;
-
+      &lt;ul&gt;
+&lt;li&gt;雾琴&lt;br&gt;&lt;img src=&quot;http://n1.itc.cn/img8/wb/smccloud/2015/07/23/143764350665470149.JPEG&quot; alt=&quot;雾琴&quot;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;没错，就是它，这就是雾琴，琴中大哥，超过1
     
     </summary>
     
@@ -66,15 +78,24 @@
   </entry>
   
   <entry>
-    <title>myfirstblog</title>
+    <title>高山仰止的音乐大家们</title>
     <link href="http://yoursite.com/2016/05/02/myfirstblog/"/>
     <id>http://yoursite.com/2016/05/02/myfirstblog/</id>
     <published>2016-05-02T11:06:20.000Z</published>
-    <updated>2016-05-02T11:06:20.018Z</updated>
+    <updated>2016-05-13T00:50:40.791Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;ol&gt;
+&lt;li&gt;路德维希·凡·贝多芬&lt;br&gt;&lt;img src=&quot;http://e.hiphotos.baidu.com/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=fd508856a9014c080d3620f76b12696d/d6ca7bcb0a46f21faa7d5bacf6246b600d33ae87.jpg&quot; alt=&quot;贝多芬&quot;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;  路德维希·凡·贝多芬（Ludwig van Beethoven，1770年12月16日-1827年3月26日，享年57岁），杰出的德国音乐家，维也纳古典乐派代表人物 之一，世界音乐史上最伟大的作曲家之一。他的作品对世界音乐的发展有着非常深远的影响，因此被尊称为“乐圣”和“交响乐之王”。&lt;br&gt;    贝多芬的主要作品以九部交响曲占首要地位。代表作有降E大调第三交响曲《英雄》、c小调第五交响曲《命运》、F大调第六交响曲《田园》、A大调第七交响曲、d小调第九交响曲《合唱》（《欢乐颂》主旋律）、序曲《爱格蒙特》、《莱奥诺拉》、升c小调第十四钢琴奏鸣曲《月光》、F大调第五小提琴奏鸣曲《春天》、F大调第二浪漫曲。&lt;br&gt;    他集古典音乐之大成，并开浪漫主义之先河，对世界音乐发展有着举足轻重的作用。他的《月光》以传说的形式出现在小学语文课本上（题目为《月光曲》)。&lt;br&gt;    贝多芬在音乐史的地位是极其突出的，他不仅是古典主义风格的集大成者，同时又是浪漫主义风格的开创者。作为音乐大师，贝多芬对艺术歌曲同样予以相当程度的关注，他是德国艺术歌曲创造的先驱，毕生作有钢琴伴奏的艺术歌曲六十多首，他的艺术歌曲以极其丰富的表现手法和形式来展现，表达属于全人类的情感。在艺术歌曲的领域里取得了非凡成就。从1796年开始便已感到听觉日渐衰弱，1813－1817年贝多芬的创作也暂时呈现颓势；1818一1827年贝多芬在耳朵失聪、健康情况恶化，五十六岁的贝多芬听觉已完全丧失。&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
     
     <summary type="html">
+    
+      &lt;ol&gt;
+&lt;li&gt;路德维希·凡·贝多芬&lt;br&gt;&lt;img src=&quot;http://e.hiphotos.baidu.com/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=fd508856a9014c080d3620f76b12696d/d6
     
     </summary>
     
